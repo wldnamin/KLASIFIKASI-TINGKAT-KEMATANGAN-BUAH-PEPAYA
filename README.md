@@ -1,0 +1,2 @@
+# KLASIFIKASI-TINGKAT-KEMATANGAN-BUAH-PEPAYA
+Menggunakan Perbandingan Algoritma K-NN Dan LOGISTIC REGRESSION, Serta Ekstraksi Fitur GLCM
